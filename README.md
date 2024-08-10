@@ -28,7 +28,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/guardians-challenge.git
+git clone https://github.com/Abdul-Majid-Khan/THE-GUARDIANS-CHALLENGE
 cd guardians-challenge
 Run the vulnerable application:
 
